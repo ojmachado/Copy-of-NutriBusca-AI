@@ -1,0 +1,5 @@
+{
+  "name": "Copy of NutriBusca AI",
+  "description": "A bilingual (PT-BR/EN-US) nutrition analyzer powered by Gemini AI. Get instant calorie and macro breakdowns for any food.",
+  "requestFramePermissions": []
+}
